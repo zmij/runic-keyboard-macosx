@@ -8,12 +8,26 @@
 	<string>Futhark</string>
 	<key>CFBundleVersion</key>
 	<string>0.1</string>
-	<key>KLInfo_Danish Fuþąrk</key>
+	<key>KLInfo_Anglo-Saxon Fuþorc</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.futhark.danishfuþąrk</string>
+		<string>org.sil.ukelele.keyboardlayout.futhark.anglo-saxonfuþorc</string>
+		<key>TISIntendedLanguage</key>
+		<string>ang-Runr</string>
+	</dict>
+	<key>KLInfo_Danish Fuþąrk</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.futhark.danishfuþąrk</string>
 		<key>TISIntendedLanguage</key>
 		<string>odt-Runr</string>
+	</dict>
+	<key>KLInfo_Dotted Runes</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.futhark.dottedrunes</string>
+		<key>TISIntendedLanguage</key>
+		<string>non-Runr</string>
 	</dict>
 	<key>KLInfo_Elder Fuþark</key>
 	<dict>
@@ -22,17 +36,17 @@
 		<key>TISIntendedLanguage</key>
 		<string>goh-Runr</string>
 	</dict>
-	<key>KLInfo_Swedish-Norwegian Fuþąrk</key>
+	<key>KLInfo_Swedish-Norwegian Fuþąrk</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.futhark.swedish-norwegianfuþąrk</string>
+		<string>org.sil.ukelele.keyboardlayout.futhark.swedish-norwegianfuþąrk</string>
 		<key>TISIntendedLanguage</key>
 		<string>non-Runr</string>
 	</dict>
-	<key>KLInfo_Younger Fuþąrk</key>
+	<key>KLInfo_Younger Fuþąrk</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.futhark.youngerfuþąrk</string>
+		<string>org.sil.ukelele.keyboardlayout.futhark.youngerfuþąrk</string>
 		<key>TISIntendedLanguage</key>
 		<string>non-Runr</string>
 	</dict>

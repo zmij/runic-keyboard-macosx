@@ -192,8 +192,8 @@ GIF instruction here
 | f | ᚠ | U+16A0 | RUNIC LETTER FEHU FEOH FE F f, | v |
 | g | ᚵ | U+16B5 | RUNIC LETTER G | g |
 | h | ᚼ | U+16BC | RUNIC LETTER LONG-BRANCH-HAGALL H   h, [x | ] |
-| i | ᛁ | U+16C1 | RUNIC LETTER ISAZ IS ISS I  i, | j |
-| k or q | ᚴ | U+16B4 | RUNIC LETTER KAUN K | k, q |
+| i | ᛁ | U+16C1 | RUNIC LETTER ISAZ IS ISS I | i, j |
+| k | ᚴ | U+16B4 | RUNIC LETTER KAUN K | k, q |
 | l | ᛚ | U+16DA | RUNIC LETTER LAUKAZ LAGU LOGR L | l |
 | m | ᛘ | U+16D8 | RUNIC LETTER LONG-BRANCH-MADR M | m |
 | n | ᚿ | U+16BF | RUNIC LETTER SHORT-TWIG-NAUD N | n |
@@ -203,7 +203,7 @@ GIF instruction here
 | s | ᛌ | U+16CC | RUNIC LETTER SHORT-TWIG-SOL S | s |
 | S | ᛋ | U+16CB | RUNIC LETTER SIGEL LONG-BRANCH-SOL S | s |
 | t | ᛐ | U+16D0 | RUNIC LETTER SHORT-TWIG-TYR T | t |
-| T | ᚦ | U+16A6 | RUNIC LETTER THURISAZ THURS THORN | þ, ð |
+| q | ᚦ | U+16A6 | RUNIC LETTER THURISAZ THURS THORN | þ, ð |
 | u | ᚢ | U+16A2 | RUNIC LETTER URUZ UR U  u, | w |
 | y | ᚤ | U+16A4 | RUNIC LETTER Y | y |
 | Y | ᛦ | U+16E6 | RUNIC LETTER LONG-BRANCH-YR y, | ū |
