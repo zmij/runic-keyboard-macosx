@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.futhark</string>
+	<key>CFBundleName</key>
+	<string>Futhark</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>KLInfo_Danish Fuþąrk</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.futhark.danishfuþąrk</string>
+		<key>TISIntendedLanguage</key>
+		<string>odt-Runr</string>
+	</dict>
+	<key>KLInfo_Elder Fuþark</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.futhark.elderfuþark</string>
+		<key>TISIntendedLanguage</key>
+		<string>goh-Runr</string>
+	</dict>
+	<key>KLInfo_Swedish-Norwegian Fuþąrk</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.futhark.swedish-norwegianfuþąrk</string>
+		<key>TISIntendedLanguage</key>
+		<string>non-Runr</string>
+	</dict>
+	<key>KLInfo_Younger Fuþąrk</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.futhark.youngerfuþąrk</string>
+		<key>TISIntendedLanguage</key>
+		<string>non-Runr</string>
+	</dict>
+</dict>
+</plist>
