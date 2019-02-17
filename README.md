@@ -30,7 +30,7 @@ $ cp -r Futhark.bundle ~/Library/Keyboard\ Layouts/
 
 ### Packaged Bundle
 
-Download the bundle [here]() and run the packaged installer.
+Download the bundle [here](https://github.com/zmij/runic-keyboard-macosx/releases/download/v0.1/runes.dmg) and run the packaged installer.
 
 ![install-runes](https://user-images.githubusercontent.com/2694027/52906618-6688c780-3260-11e9-9289-8324839573b1.gif)
 
