@@ -6,18 +6,21 @@ This keyboard layout bundle contains layouts mostly similar to the [BabelStone](
 
 UTF-8 runic symbols can be found on the [unicode.org site](http://www.unicode.org/charts/PDF/U16A0.pdf).
 
-Table of contents
+#### Table of contents
 
-[Layouts](#layouts)
-
-* [Elder Fuþark](#elder-fuark)
-* [Younger Fuþąrk (mixed)](#nordic-mixed-rune-keyboard-layout)
-* [Danish Fuþąrk](#danish-fuark-long-branch-runes)
-* [Swedish-Norwegian Fuþąrk](#swedish-norwegian-fuark-short-twig-runes)
-* [Dotted Runes](#scandinavian-pointed-runic-alphabet-dotted-runes)
-* [Medieval Fuþąrk](#medieval-fuark)
-* [Anglo-Saxon Fuþorc](#anglo-saxon-fuorc)
-
+* [Installation](#installation)
+     * [The True Geek Way](#the-true-geek-way)
+     * [Packaged Bundle](#packaged-bundle)
+     * [Adding Keyboard Layouts](#adding-layouts)
+* [Layouts](#layouts)
+    * [Elder Futhark](#elder-futhark)
+    * [Nordic Mixed Rune Keyboard Layout](#nordic-mixed-rune-keyboard-layout)
+    * [Danish Futhork (long-branch runes)](#danish-futhork-long-branch-runes)
+    * [Swedish-Norwegian Futhork (short-twig runes)](#swedish-norwegian-futhork-short-twig-runes)
+    * [Scandinavian Pointed Runic Alphabet (Dotted Runes)](#scandinavian-pointed-runic-alphabet-dotted-runes)
+    * [Medieval Futhork](#medieval-futhork)
+    * [Anglo-Saxon Futhorc](#anglo-saxon-futhorc)
+         
 ## Installation
 
 ### The True Geek Way
@@ -34,18 +37,21 @@ Download the bundle [here](https://github.com/zmij/runic-keyboard-macosx/release
 
 ![install-runes](https://user-images.githubusercontent.com/2694027/52906618-6688c780-3260-11e9-9289-8324839573b1.gif)
 
-### Adding Layouts
+### Adding Keyboard Layouts
 
 Go to keyboard settings, open input sources tab, and click the `+` button in the bottom left corner. If the installation went smoothly, you should see several new languages there.
 
 ![add-rune-keyboard-layouts](https://user-images.githubusercontent.com/2694027/52906620-6d173f00-3260-11e9-9a78-90bb9e3ceddc.gif)
 
+If the layouts don't appear in the list after installation or don't work in some applications, log out and log in again.
+
 ## Layouts
 
-### [Elder Fuþark / ᚠᚢᛏᚨᚱᚲ](https://en.wikipedia.org/wiki/Elder_Futhark)
+### Elder Futhark
 
 ![elder-futhark](https://user-images.githubusercontent.com/2694027/52906591-0e51c580-3260-11e9-99a4-7f11003f42ae.gif)
 
+* Wikipedia: *[Elder Fuþark](https://en.wikipedia.org/wiki/Elder_Futhark)*
 * Layout name: *Elder Fuþark*
 * Language: *Old High German*
 * Script: *Runic*
@@ -81,10 +87,11 @@ Go to keyboard settings, open input sources tab, and click the `+` button in the
 | + (plus sign) or / (slash) | ᛭ | U+16ED | RUNIC CROSS PUNCTUATION |
 | _ (underscore)| | U+200D | ZERO WIDTH JOINER |
 
-### [Nordic Mixed Rune Keyboard Layout](https://en.wikipedia.org/wiki/Younger_Futhark)
+### Nordic Mixed Rune Keyboard Layout
 
 ![younger-futhark](https://user-images.githubusercontent.com/2694027/52906595-1c9fe180-3260-11e9-86f0-1db6b55f232a.gif)
 
+* Wikipedia: *[Younger Fuþąrk](https://en.wikipedia.org/wiki/Younger_Futhark)*
 * Layout name: *Younger Fuþąrk*
 * Language: *Old Norse*
 * Script: *Runic*
@@ -122,10 +129,11 @@ Go to keyboard settings, open input sources tab, and click the `+` button in the
 | + (plus sign) or / (slash) | ᛭ | U+16ED | RUNIC CROSS PUNCTUATION |
 | _ (underscore)| | U+200D | ZERO WIDTH JOINER |
 
-### [Danish Fuþąrk (long-branch runes)](https://en.wikipedia.org/wiki/Younger_Futhark)
+### Danish Futhork (long-branch runes)
 
 ![danish-futhark](https://user-images.githubusercontent.com/2694027/52906611-4953f900-3260-11e9-990d-cbef704705a8.gif)
 
+* Wikipedia: *[Younger Fuþąrk](https://en.wikipedia.org/wiki/Younger_Futhark)*
 * Layout name: *Danish Fuþąrk*
 * Language: *Old Dutch*
 * Script: *Runic*
@@ -153,10 +161,11 @@ Go to keyboard settings, open input sources tab, and click the `+` button in the
 | + (plus sign) or / (slash) | ᛭ | U+16ED | RUNIC CROSS PUNCTUATION |
 | _ (underscore)| | U+200D | ZERO WIDTH JOINER |
 
-### [Swedish-Norwegian Fuþąrk (short-twig runes)](https://en.wikipedia.org/wiki/Younger_Futhark)
+### Swedish-Norwegian Futhork (short-twig runes)
 
 ![swe-nor-futhark](https://user-images.githubusercontent.com/2694027/52906613-4fe27080-3260-11e9-9d49-b2e84c827a6b.gif)
 
+* Wikipedia: *[Younger Fuþąrk](https://en.wikipedia.org/wiki/Younger_Futhark)*
 * Layout name: *Swedish-Norwegian Fuþąrk*
 * Language: *Old Norse*
 * Script: *Runic*
@@ -225,14 +234,15 @@ Go to keyboard settings, open input sources tab, and click the `+` button in the
 | + (plus sign) or / (slash) | ᛭ | U+16ED | RUNIC CROSS PUNCTUATION |
 | _ (underscore)| | U+200D | ZERO WIDTH JOINER |
 
-### Medieval Fuþąrk
+### Medieval Futhork
 
 *TODO*
 
-### Anglo-Saxon Fuþorc
+### Anglo-Saxon Futhorc
 
 ![anglo-saxon-futhorc](https://user-images.githubusercontent.com/2694027/52906616-5ffa5000-3260-11e9-89a0-04a40bef46a9.gif)
 
+* Wikipedia: [Anglo-Saxon Runes](https://en.wikipedia.org/wiki/Anglo-Saxon_runes)
 * Layout name: *Anglo-Saxon Fuþorc*
 * Language: *Old English*
 * Script: *Runic*
