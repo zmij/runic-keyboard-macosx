@@ -32,17 +32,19 @@ $ cp -r Futhark.bundle ~/Library/Keyboard\ Layouts/
 
 Download the bundle [here]() and run the packaged installer.
 
-GIF instruction here
+![install-runes](https://user-images.githubusercontent.com/2694027/52906618-6688c780-3260-11e9-9289-8324839573b1.gif)
 
 ### Adding Layouts
 
 Go to keyboard settings, open input sources tab, and click the `+` button in the bottom left corner. If the installation went smoothly, you should see several new languages there.
 
-GIF instruction here
+![add-rune-keyboard-layouts](https://user-images.githubusercontent.com/2694027/52906620-6d173f00-3260-11e9-9a78-90bb9e3ceddc.gif)
 
 ## Layouts
 
 ### [Elder Fuþark / ᚠᚢᛏᚨᚱᚲ](https://en.wikipedia.org/wiki/Elder_Futhark)
+
+![elder-futhark](https://user-images.githubusercontent.com/2694027/52906591-0e51c580-3260-11e9-99a4-7f11003f42ae.gif)
 
 * Layout name: *Elder Fuþark*
 * Language: *Old High German*
@@ -80,6 +82,8 @@ GIF instruction here
 | _ (underscore)| | U+200D | ZERO WIDTH JOINER |
 
 ### [Nordic Mixed Rune Keyboard Layout](https://en.wikipedia.org/wiki/Younger_Futhark)
+
+![younger-futhark](https://user-images.githubusercontent.com/2694027/52906595-1c9fe180-3260-11e9-86f0-1db6b55f232a.gif)
 
 * Layout name: *Younger Fuþąrk*
 * Language: *Old Norse*
@@ -120,6 +124,8 @@ GIF instruction here
 
 ### [Danish Fuþąrk (long-branch runes)](https://en.wikipedia.org/wiki/Younger_Futhark)
 
+![danish-futhark](https://user-images.githubusercontent.com/2694027/52906611-4953f900-3260-11e9-990d-cbef704705a8.gif)
+
 * Layout name: *Danish Fuþąrk*
 * Language: *Old Dutch*
 * Script: *Runic*
@@ -149,6 +155,8 @@ GIF instruction here
 
 ### [Swedish-Norwegian Fuþąrk (short-twig runes)](https://en.wikipedia.org/wiki/Younger_Futhark)
 
+![swe-nor-futhark](https://user-images.githubusercontent.com/2694027/52906613-4fe27080-3260-11e9-9d49-b2e84c827a6b.gif)
+
 * Layout name: *Swedish-Norwegian Fuþąrk*
 * Language: *Old Norse*
 * Script: *Runic*
@@ -177,6 +185,8 @@ GIF instruction here
 | _ (underscore)| | U+200D | ZERO WIDTH JOINER |
 
 ### Scandinavian Pointed Runic Alphabet (Dotted Runes)
+
+![dotted-runes](https://user-images.githubusercontent.com/2694027/52906614-583aab80-3260-11e9-82e5-78ab69303a34.gif)
 
 * Layout name: *Dotted Runes*
 * Language: *Old Norse*
@@ -220,6 +230,8 @@ GIF instruction here
 *TODO*
 
 ### Anglo-Saxon Fuþorc
+
+![anglo-saxon-futhorc](https://user-images.githubusercontent.com/2694027/52906616-5ffa5000-3260-11e9-89a0-04a40bef46a9.gif)
 
 * Layout name: *Anglo-Saxon Fuþorc*
 * Language: *Old English*
